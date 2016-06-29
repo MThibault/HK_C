@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(void) {
-	/* Initialisation and Affectation */
+	/* Initialization and Affectation */
 	char	tab[]		= "Livres";
 	int	tab_size;
 

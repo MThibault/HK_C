@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	/* Initialisation and Affectation */
+	/* Initialization and Affectation */
 	char 	tab[]	= "Mécontant";
 
 	/* Implementation */
